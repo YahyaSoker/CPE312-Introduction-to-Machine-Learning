@@ -10,7 +10,6 @@ This repository includes the following materials:
 
 - **Source Code**: Contains examples and algorithms developed within the scope of the course.
 - **Data Files**: Includes real datasets used for applications.
-- **Documentation**: Contains documentation regarding the usage of algorithms and applications.
 
 ## Installation
 To clone the project to your local machine, you can use the following command:
